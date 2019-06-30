@@ -3,8 +3,7 @@ import { Component, OnInit } from '@angular/core';
 @Component({ 
 	selector: 'app-root',
 	template: `
-		<h1>Hello World</h1>
-		<h1>{{ title }}</h1>
+		<app-customers></app-customers>
 	`
 })
 
