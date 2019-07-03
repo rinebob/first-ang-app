@@ -12,7 +12,7 @@ export class AppComponent implements OnInit {
 	constructor() { }
 
 	ngOnInit() {
-		this.title = 'Yo hey dude using Data Binding';
+		this.title = 'First Angular App';
 	}
 
 }
