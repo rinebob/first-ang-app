@@ -11,4 +11,3 @@ const ordersRoutes: Routes = [
 	exports: [ RouterModule ]
 })
 export class OrdersRoutingModule {}
-

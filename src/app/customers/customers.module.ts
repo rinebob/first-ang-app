@@ -28,4 +28,3 @@ import { CustomersRoutingModule } from './customers-routing.module';
 
 })
 export class CustomersModule { }
-
