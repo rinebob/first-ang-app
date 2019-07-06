@@ -38,8 +38,7 @@ export class DataService {
 			)
 	}
 
-
-
+	
 	private handleError(error: any) {
 		console.error('data.s.ts server error:', error);
 		if (error.error instanceof Error) {
